@@ -40,7 +40,7 @@ No suele convenir para este destino, pero existe:
 - **Fecha de la fuente:** 
 
 ## Búsqueda 2
-- **Pregunta que hice:**
+- **Pregunta que hice:** Necesito con precisión que documentación es necesaria para exportar la yerba al Paraguay y cuales son los organismos que intervienen dentro de toda la operación
 - **Dato obtenido:** Para exportar yerba mate desde Argentina a Paraguay por la aduana de Posadas, la operación combina **habilitación como exportador**, **documentación aduanera y comercial**, **certificación fitosanitaria**, **certificado de origen MERCOSUR** y, del lado paraguayo, **autorización previa de importación** para yerba mate canchada. 
 
 ## Documentación argentina
