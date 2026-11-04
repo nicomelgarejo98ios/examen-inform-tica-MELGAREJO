@@ -36,7 +36,7 @@ No suele convenir para este destino, pero existe:
 - Para una carga que sale por la aduana de Posadas con destino final Asunción, la ruta por **Encarnación y PY-1 es la más directa y la recomendada**.
 - Si el punto de carga de la yerbatera no está en Posadas capital, sumá el traslado local al puente; no pude confirmar con fuentes públicas la dirección exacta de “Yerbatera Tres Fronteras S.R.L.”.
 
-- **Fuente (enlace):**
+- **Fuente (enlace):** https://www.perplexity.ai/search/25ec093c-7551-4460-82bf-f86709ab3923
 - **Fecha de la fuente:**
 
 ## Búsqueda 2
