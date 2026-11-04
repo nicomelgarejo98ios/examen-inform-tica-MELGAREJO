@@ -34,13 +34,8 @@ No suele convenir para este destino, pero existe:
 - Es considerablemente más larga, con dos fronteras adicionales: Argentina–Brasil y Brasil–Paraguay.
 - Puede tener sentido sólo si el camión ya está cargado en el Alto Paraná, debe entregar en Ciudad del Este, o hay una restricción operativa en el puente Posadas–Encarnación.
 - Para una carga que sale por la aduana de Posadas con destino final Asunción, la ruta por **Encarnación y PY-1 es la más directa y la recomendada**.
-
-## Puntos a verificar antes de salir
-
-- Documentación argentina de exportación y factura comercial; del lado paraguayo, declaración de importación ante la DNA en Encarnación y, para yerba mate, los permisos fitosanitarios que correspondan.
-- Horario de carga en el centro de frontera: **7:00 a 19:00**.
-- Estado de tránsito y restricciones en la PY-1, especialmente lluvias, obras o controles en Coronel Oviedo.
 - Si el punto de carga de la yerbatera no está en Posadas capital, sumá el traslado local al puente; no pude confirmar con fuentes públicas la dirección exacta de “Yerbatera Tres Fronteras S.R.L.”.
+
 - **Fuente (enlace):**
 - **Fecha de la fuente:**
 
