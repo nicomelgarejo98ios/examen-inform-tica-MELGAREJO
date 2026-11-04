@@ -37,12 +37,67 @@ No suele convenir para este destino, pero existe:
 - Si el punto de carga de la yerbatera no está en Posadas capital, sumá el traslado local al puente; no pude confirmar con fuentes públicas la dirección exacta de “Yerbatera Tres Fronteras S.R.L.”.
 
 - **Fuente (enlace):** https://www.perplexity.ai/search/25ec093c-7551-4460-82bf-f86709ab3923
-- **Fecha de la fuente:**
+- **Fecha de la fuente:** 
 
 ## Búsqueda 2
 - **Pregunta que hice:**
-- **Dato obtenido:**
-- **Fuente (enlace):**
+- **Dato obtenido:** Para exportar yerba mate desde Argentina a Paraguay por la aduana de Posadas, la operación combina **habilitación como exportador**, **documentación aduanera y comercial**, **certificación fitosanitaria**, **certificado de origen MERCOSUR** y, del lado paraguayo, **autorización previa de importación** para yerba mate canchada. 
+
+## Documentación argentina
+
+| Documento | Quién lo emite / presenta | Uso |
+|---|---|---|
+| Inscripción como exportador y CUIT/clave fiscal | ARCA (ex AFIP) | Habilita a la empresa para operar en comercio exterior. 
+| Inscripción en el Registro de Exportadores del INYM | INYM | La Ley 25.564 exige inscripción para operar como exportador de yerba mate; debe acompañarse la inscripción ante la Dirección General de Aduanas. 
+| Declaración de Exportación (SIM) | Exportador o despachante de aduana ante ARCA/Aduana | Documento aduanero que autoriza la salida definitiva de la mercadería del país.
+| Factura comercial / factura de exportación | Exportador | Detalla producto, cantidad, precio, condiciones de venta e incoterm. |
+| Packing list | Exportador | Identifica bultos, peso bruto y neto, marcas y contenido. |
+| Certificado fitosanitario de exportación | SENASA | Obligatorio para productos y subproductos de origen vegetal; se solicita ante SENASA antes del embarque.
+| Certificado de Origen Digital MERCOSUR (COD) | Exportador mediante ARCA, con declaración jurada de origen | Permite acreditar origen argentino y acceder al tratamiento preferencial del MERCOSUR; debe estar presentado al registrar la destinación. 
+| Documento de transporte | Transportista / despachante | CRT o carta de porte internacional en transporte terrestre; identifica carga, transportista, ruta y destinatario. |
+| Seguro de carga, si corresponde | Aseguradora / broker | Según el incoterm acordado con el importador. |
+| Comprobantes de retenciones y liquidaciones del INYM | INYM / exportador | Aplican a la cadena yerbatera, incluida la yerba canchada.
+## Documentación exigida en Paraguay
+
+- **Autorización o licencia previa de importación de yerba mate canchada**: la guía comercial argentina para Paraguay la identifica expresamente como requisito de acceso al mercado.
+- **Declaración de importación ante la Dirección Nacional de Aduanas (DNA)** del Paraguay, presentada por el importador paraguayo o su despachante.
+- **Certificado fitosanitario argentino**, que debe acompañar la carga para su control sanitario vegetal en frontera.
+- **Certificado de origen MERCOSUR**, para sustentar la preferencia arancelaria; el COD argentino debe estar registrado cuando corresponda.
+- **Factura comercial, packing list y documento de transporte**, para el despacho de importación.
+- **Etiquetado e información de producto**: el importador debe asegurar el cumplimiento de las normas paraguayas de rotulado, registro o habilitación sanitaria de alimentos según el producto final y su presentación. La guía oficial recomienda verificar requisitos técnicos, sanitarios y fitosanitarios adicionales antes de operar.
+## Organismos que intervienen
+
+### En Argentina
+
+- **ARCA / Dirección General de Aduanas (DGA):** administra CUIT, clave fiscal, registro de exportador, SIM y control aduanero de salida.
+- **SENASA:** verifica sanidad vegetal y emite el certificado fitosanitario de exportación. 
+- **INYM:** registra y controla a operadores yerbateros, incluidos exportadores; exige inscripción aduanera como parte del registro.
+- **Entidad certificadora habilitada / sistema de origen digital:** interviene en la emisión o validación del certificado de origen MERCOSUR.
+- **Despachante de aduana:** normalmente presenta la destinación de exportación y coordina la documentación técnica y aduanera.
+- **Transportista y agente de carga:** emiten y gestionan el CRT u otro documento de transporte internacional.
+
+### En Paraguay
+
+- **Dirección Nacional de Aduanas (DNA):** controla el ingreso, recibe la declaración de importación y verifica documentos y aranceles.
+- **Ministerio de Industria y Comercio (MIC):** interviene en la licencia previa de importación de yerba mate canchada.
+- **Servicio Nacional de Calidad y Sanidad Vegetal y de Semillas (SENACSA):** autoridad sanitaria vegetal que puede intervenir en el control fitosanitario de la yerba en frontera.
+- **Importador paraguayo y su despachante:** son responsables de la declaración, nacionalización, tributos y cumplimiento de requisitos locales.
+- **INTN u organismos de normalización:** pueden intervenir según el tipo de producto, envase y rotulado exigido.
+
+## Secuencia operativa recomendada
+
+1. Verificar que la empresa esté inscripta en ARCA, DGA e INYM como exportadora.
+2. Confirmar con el importador paraguayo la **licencia previa de importación** y los requisitos de rotulado del producto. 
+3. Solicitar al SENASA el **certificado fitosanitario de exportación** con la mercadería identificada.
+4. Emitir factura, packing list y tramitar el **COD MERCOSUR** antes del registro de la destinación.
+5. Presentar la **declaración de exportación (SIM)** ante la Aduana argentina.
+6. Cruzar por Posadas–Encarnación dentro del horario habilitado para cargas, de **7:00 a 19:00**. 
+7. En Encarnación, el importador presenta la declaración de importación ante la DNA y acompaña certificado fitosanitario, COD, factura, packing list y transporte.
+
+## Advertencia importante
+
+El requisito más sensible es la **licencia previa de importación de yerba mate canchada** en Paraguay: debe gestionarla el importador paraguayo **antes** de despachar la carga, porque sin ella la mercadería puede quedar demorada o no poder nacionalizarse.  Antes de cada embarque conviene reconfirmar la resolución vigente con SENASA, INYM, la aduana de Posadas y el importador/despachante paraguayo, ya que las normas de importación y los formularios pueden actualizarse. 
+- **Fuente (enlace):** https://www.perplexity.ai/search/25ec093c-7551-4460-82bf-f86709ab3923
 - **Fecha de la fuente:**
 
 ## Búsqueda 3
