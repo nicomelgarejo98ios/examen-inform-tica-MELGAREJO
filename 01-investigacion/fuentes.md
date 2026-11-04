@@ -101,7 +101,40 @@ El requisito más sensible es la **licencia previa de importación de yerba mate
 - **Fecha de la fuente:**
 
 ## Búsqueda 3
-- **Pregunta que hice:**
-- **Dato obtenido:**
-- **Fuente (enlace):**
+- **Pregunta que hice:** Para la exportacion de la Yerba desde Misiones Argentina hacia Asuncion Paraguay que tipos de atributos corresponden al exportador en una clausula DDP y en que régimen ingresa el mismo?
+- **Dato obtenido:** Bajo **DDP Asunción (Incoterms 2020)**, el exportador misionero asume prácticamente todas las obligaciones hasta dejar la yerba a disposición del comprador en el lugar pactado de Asunción, **despachada para importación y con aranceles e impuestos pagados**. 
+
+## Atributos del exportador en DDP
+
+El exportador es el responsable de:
+
+- **Preparar, embalar, marcar y documentar** la yerba mate conforme a los requisitos argentinos y paraguayos.
+- **Realizar y pagar el despacho de exportación** en Argentina: SIM, certificado fitosanitario SENASA, certificado de origen MERCOSUR y demás documentación. 
+- **Contratar y pagar el transporte internacional** desde el establecimiento en Misiones hasta el punto de entrega acordado en Asunción, incluido el cruce Posadas–Encarnación.
+- **Gestionar el despacho de importación en Paraguay**, presentando o coordinando la declaración de importación ante la Dirección Nacional de Aduanas. 
+- **Pagar los tributos de importación paraguayos**: arancel externo común si correspondiere, IVA, tasas aduaneras, yeventuales impuestos internos o cargas específicas.
+- **Asumir el riesgo de pérdida o daño** de la mercadería hasta que esté puesta a disposición del comprador en el punto DDP acordado, lista para descarga.
+- **Entregar los documentos necesarios** para que el comprador pueda tomar la mercadería; no obstante, el comprador normalmente colabora proporcionando información o autorizaciones locales cuando el exportador no puede actuar directamente como importador.
+
+En términos prácticos, bajo DDP el exportador argentino funciona como **“importador de registro” (IOR)** en Paraguay o debe contratar a un importador/despachante local que actúe en su nombre. Esto es una excepción frente a los demás Incoterms, donde la importación corresponde al comprador.
+## Punto de transferencia de riesgo
+
+La cláusula debería indicar un lugar preciso, por ejemplo:
+
+> **DDP Depósito del comprador, Asunción, Paraguay – Incoterms 2020**
+
+El riesgo se transfiere al comprador cuando la yerba llega a ese lugar, sobre el vehículo de transporte y **lista para descarga**. La descarga no es obligación del vendedor salvo que el contrato lo establezca expresamente. 
+
+## Régimen aduanero de ingreso
+
+| Etapa | País | Régimen |
+|---|---|---|
+| Salida de la yerba | Argentina | **Exportación definitiva para consumo**; se registra la destinación de exportación (SIM) ante la Aduana argentina.  |
+| Ingreso en Paraguay | Paraguay | **Importación definitiva para consumo**; la mercadería se nacionaliza y quedan pagos los tributos correspondientes.  
+
+Es decir, la yerba **no ingresa a Paraguay bajo tránsito aduanero, admisión temporaria ni depósito de almacenamiento**: bajo DDP debe ingresar por el régimen de **importación definitiva**, con el exportador asumiendo el cumplimiento aduanero y el pago de gravámenes. 
+## Precaución para yerba mate
+
+Antes de fijar DDP, el exportador debe confirmar que pueda cumplir —directamente o mediante un representante paraguayo— la **licencia previa de importación de yerba mate canchada** y los requisitos sanitarios y de rotulado.  Si el comprador paraguayo es quien debe figurar como importador ante las autoridades locales, DDP puede resultar inviable o requerir un acuerdo expreso con un **IOR/importador de registro**; en ese caso, DAP suele ser una alternativa más operativa.
+- **Fuente (enlace):** https://www.perplexity.ai/search/25ec093c-7551-4460-82bf-f86709ab3923
 - **Fecha de la fuente:**
